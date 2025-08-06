@@ -1,0 +1,15 @@
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.deps.json
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.runtimeconfig.json
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.dll
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/bin/Debug/net8.0/InheritanceDemo.pdb
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.AssemblyInfoInputs.cache
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.AssemblyInfo.cs
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.csproj.CoreCompileInputs.cache
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.sourcelink.json
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.dll
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/refint/InheritanceDemo.dll
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.pdb
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/InheritanceDemo.genruntimeconfig.cache
+/workspaces/dcit318-assignment2-11220227/InheritanceDemo/obj/Debug/net8.0/ref/InheritanceDemo.dll
